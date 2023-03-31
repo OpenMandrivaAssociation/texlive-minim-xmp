@@ -1,6 +1,6 @@
 Name:		texlive-minim-xmp
 Version:	62419
-Release:	1
+Release:	2
 Summary:	Embed XMP metadata in PDF with LuaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/minim-xmp
