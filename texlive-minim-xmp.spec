@@ -1,5 +1,5 @@
 Name:		texlive-minim-xmp
-Version:	66395
+Version:	69352
 Release:	1
 Summary:	Embed XMP metadata in PDF with LuaTeX
 Group:		Publishing
