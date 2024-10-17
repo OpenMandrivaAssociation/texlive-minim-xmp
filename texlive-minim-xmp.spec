@@ -3,7 +3,7 @@ Version:	70885
 Release:	1
 Summary:	Embed XMP metadata in PDF with LuaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/minim-xmp
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/minim-xmp
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/minim-xmp.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/minim-xmp.doc.r%{version}.tar.xz
